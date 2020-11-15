@@ -1,1 +1,0 @@
-you can directly download [best_weights](https://drive.google.com/file/d/1eDSs3hTR1wK8K4w4Ax6l4ZPkuv76pCd5/view?usp=sharing)
